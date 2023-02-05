@@ -1,4 +1,15 @@
-# HTML-CSS-Template-One
-This my first HTML &amp; CSS Template
+# Leon
 
-Design Link : https://muhammad-adam778.github.io/HTML-CSS-Template-One/
+![Landing](./screenshot/landing.png)
+
+- **Live site** : https://muhammad-abdusalam.github.io/Leon/
+
+### Built with ⚒️
+
+- HTML
+- CSS
+- JS
+
+### Author
+
+- Linkedin: [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
